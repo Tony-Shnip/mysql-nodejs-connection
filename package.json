@@ -1,0 +1,27 @@
+{
+  "name": "mysql-nodejs-connection",
+  "version": "1.0.0",
+  "description": "MySQL-NodeJS connection files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tony-Shnip/mysql-nodejs-connection.git"
+  },
+  "keywords": [
+    "MySQL",
+    "Database",
+    "NodeJS"
+  ],
+  "author": "Anton Shnip <shnip12345@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tony-Shnip/mysql-nodejs-connection/issues"
+  },
+  "homepage": "https://github.com/Tony-Shnip/mysql-nodejs-connection#readme",
+  "dependencies": {
+    "mysql": "^2.18.1"
+  }
+}
